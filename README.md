@@ -10,15 +10,16 @@
 ---
 
 ### 🚀 About Me
-- 🔧 I build cool tools and websites  
+- 🔧 I build tools and websites  
 - 🤖 I love AI and automation  
-- 🎨 I enjoy making clean UI designs  
+- 🎨 I enjoy making clean UI designs
+- D1 vibe coder
 
 ---
 
 ### 📫 Connect
 Feel free to explore my repos and reach out!
-## 🚀 About Me
+## even more...
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=00F7FF&width=650&center=true&lines=Creator+%7C+Coder+%7C+Builder;AI+Automation+Enthusiast+🤖;Crafting+clean+UI+experiences+🎨;Welcome+to+my+digital+workspace.)
 
