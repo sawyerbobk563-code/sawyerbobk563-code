@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Sawyer</h1>
 
-<!--
-**sawyerbobk563-code/sawyerbobk563-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
+</p>
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&lines=Welcome+to+my+GitHub!;I+love+coding+and+AI!;Check+out+my+projects!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔧 I build cool tools and websites  
+- 🤖 I love AI and automation  
+- 🎨 I enjoy making clean UI designs  
+
+---
+
+### 📫 Connect
+Feel free to explore my repos and reach out!
