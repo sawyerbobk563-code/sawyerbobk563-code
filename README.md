@@ -4,7 +4,8 @@
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250">
 </p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00F7FF&lines=Welcome+to+my+GitHub!;I+love+coding+and+AI!;Check+out+my+projects!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=28&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+Sawyer's+GitHub+🤖;I+love+coding+and+AI.;Experimenting+with+ideas+and+side+projects.;Check+out+what+I'm+building+next+🚧)
+
 
 ---
 
