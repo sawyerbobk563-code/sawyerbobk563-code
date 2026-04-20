@@ -18,3 +18,10 @@
 
 ### 📫 Connect
 Feel free to explore my repos and reach out!
+## 🚀 About Me
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=24&color=00F7FF&width=650&center=true&lines=Creator+%7C+Coder+%7C+Builder;AI+Automation+Enthusiast+🤖;Crafting+clean+UI+experiences+🎨;Welcome+to+my+digital+workspace.)
+
+---
+📫 **Connect**  
+Check out my projects and drop a star if you vibe with them.
