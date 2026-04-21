@@ -19,7 +19,7 @@
 
 ### `> whoami`
 
-Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess over clean UI, and think AI should do the boring stuff so humans can do the interesting stuff.
+Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess over clean UI, and think AI should do the boring stuff so humans can do the interesting stuff. vistit my bio: https://udontknow.edgeone.app/
 
 - 🤖 Deep in AI & automation rabbit holes
 - 🎨 Allergic to ugly interfaces
