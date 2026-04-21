@@ -19,7 +19,7 @@
 
 ### `> whoami`
 
-Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess over clean UI, and think AI should do the boring stuff so humans can do the interesting stuff. vistit my bio: https://udontknow.edgeone.app/
+Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess over clean UI, and think AI should do the boring stuff so humans can do the interesting stuff.
 
 - 🤖 Deep in AI & automation rabbit holes
 - 🎨 Allergic to ugly interfaces
@@ -70,8 +70,16 @@ Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess ove
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sawyerbobk563-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawyerbobk563-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9" />
+<table><tbody><tr>
+<td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sawyerbobk563-code&theme=dark&show_icons=true&count_private=true">
+<br/><br/>
+<img alt="Streak stats" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sawyerbobk563-code&theme=dark">
+</td>
+<td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sawyerbobk563-code&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+</td>
+</tr></tbody></table>
 
 </div>
 
