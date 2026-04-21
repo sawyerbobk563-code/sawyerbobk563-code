@@ -9,7 +9,7 @@
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+things+that+shouldn't+exist+yet.;AI+%2B+automation+%2B+clean+UI.;Single-file+apps+%26+side+projects.;Always+shipping+something+new+%F0%9F%9A%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=400&color=00F7FF&center=true&vCenter=true&repeat=true&width=620&lines=Building+things+that+shouldn't+exist+yet.;AI+%2B+automation+%2B+clean+UI.;Single-file+apps+that+slap.;D1+vibe+coder+%E2%9A%A1;If+it+can+be+automated%2C+it+will+be.;Runner+by+day%2C+coder+by+night.;Strava+%2B+Garmin+%2B+code+%3D+my+personality.;Shipping+side+projects+faster+than+I+sleep.;Making+the+browser+do+things+it+regrets.;Clean+UI+or+don't+bother.;Always+one+side+project+too+many.;AI+should+do+the+boring+stuff.;Building+in+public%2C+breaking+in+private.;404+sleep+not+found.;One+HTML+file+to+rule+them+all.)](https://git.io/typing-svg)
 
 </div>
 
