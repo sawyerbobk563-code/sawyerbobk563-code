@@ -26,3 +26,4 @@ Feel free to explore my repos and reach out!
 ---
 📫 **Connect**  
 Check out my projects and drop a star if you vibe with them.
+![](https://komarev.com/ghpvc/?username=sawyerbobk563-code&color=blue)
