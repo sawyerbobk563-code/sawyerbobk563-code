@@ -27,6 +27,7 @@ Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess ove
 - 🔥 Shipping side projects faster than I finish them
 - ⚡ D1 vibe coder — no rules, just results
 
+### Check out my dev bio:   https://udontknow.edgeone.app  
 ---
 
 ### `> ls ./stack`
