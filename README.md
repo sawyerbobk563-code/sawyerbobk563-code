@@ -29,7 +29,24 @@ Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess ove
 
 ### Check out my dev bio:   https://sawyerbobk563-code.github.io/notam--bio/
 ---
+### `> cat ./stats`
 
+<div align="center">
+
+<table><tbody><tr>
+<td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sawyerbobk563-code&theme=dark&show_icons=true&count_private=true">
+<br/><br/>
+<img alt="Streak stats" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sawyerbobk563-code&theme=dark">
+</td>
+<td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sawyerbobk563-code&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+</td>
+</tr></tbody></table>
+
+</div>
+
+---
 ### `> ls ./stack`
 
 <div align="center">
@@ -47,40 +64,6 @@ Hey — I'm Sawyer. I build tools the internet didn't know it needed, obsess ove
 ![Anthropic](https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Strava](https://img.shields.io/badge/Strava-FC4C02?style=flat-square&logo=strava&logoColor=white)
 ![Garmin](https://img.shields.io/badge/Garmin-007CC3?style=flat-square&logo=garmin&logoColor=white)
-
-</div>
-
----
-
-### `> cat ./projects`
-
-> *A few things I've been building:*
-
-| Project | What it is |
-|---------|-----------|
-| 🗺️ **Atlas Maps** | Full Google Maps clone — single HTML file, glassmorphism UI |
-| 🛣️ **Pathfinder** | Route planner for runners & cyclists with AI + OSRM + POIs |
-| 🎵 **VLC-style PWA** | Music player with Cloudflare R2 backend |
-| 📊 **Stride** | Garmin activity dashboard — CSV + FIT file analytics |
-| 🔥 **Strava Flow** | Automation builder with AI assistant integration |
-| 🧠 **RunForge** | Firebase-backed community running platform |
-
----
-
-### `> cat ./stats`
-
-<div align="center">
-
-<table><tbody><tr>
-<td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=sawyerbobk563-code&theme=dark&show_icons=true&count_private=true">
-<br/><br/>
-<img alt="Streak stats" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sawyerbobk563-code&theme=dark">
-</td>
-<td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sawyerbobk563-code&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
-</td>
-</tr></tbody></table>
 
 </div>
 
